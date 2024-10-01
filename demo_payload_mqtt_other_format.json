@@ -1,0 +1,41 @@
+{
+    "command": {
+        "cluster": 65280,
+        "command": 255,
+        "payload": {
+            "transitions": 5,
+            "mode": 0,
+            "day_of_week_1": 255,
+            "transition_time_1": 445,
+            "set_point_1": 1700,
+            "day_of_week_2": 255,
+            "transition_time_2": 510,
+            "set_point_2": 1600,
+            "day_of_week_3": 255,
+            "transition_time_3": 1320,
+            "set_point_3": 1700,
+            "day_of_week_4": 255,
+            "transition_time_4": 1380,
+            "set_point_4": 1600,
+            "day_of_week_5": 4,
+            "transition_time_5": 20,
+            "set_point_5": 1800,
+            "day_of_week_6": 4,
+            "transition_time_6": 0,
+            "set_point_6": 0,
+            "day_of_week_7": 4,
+            "transition_time_7": 0,
+            "set_point_7": 0,
+            "day_of_week_8": 4,
+            "transition_time_8": 0,
+            "set_point_8": 0,
+            "day_of_week_9": 4,
+            "transition_time_9": 0,
+            "set_point_9": 0,
+            "day_of_week_10": 4,
+            "transition_time_10": 0,
+            "set_point_10": 0
+        
+        }
+    }
+}
